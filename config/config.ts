@@ -36,7 +36,7 @@ const config: ConfigProps = {
     "" /* if you don't wish the button to appear, you can either leave it blank or omit it */,
   youtubeLink: "https://www.youtube.com/@ustav_o",
   spotifyLink: "https://open.spotify.com/user/314j255v3f5u2yvilbdzywnsxps4",
-  footer: "made with ❤️, ustav",
+  footer: "made with <3, ustav",
 };
 
 export default config;
