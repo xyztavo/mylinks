@@ -15,8 +15,8 @@ const config: ConfigProps = {
   avatarImgSrc: "/assets/profile.png",
   buttons: [
     {
-      title: "lunai.monster (projects)",
-      link: "https://lunai.monster",
+      title: "lunai.monster",
+      link: "https://www.lunai.monster",
     },
     {
       title: "developer instagram",
